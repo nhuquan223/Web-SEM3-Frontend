@@ -1,4 +1,4 @@
-Kiến thức React Frontend cho Web Application
+![image](https://github.com/user-attachments/assets/1b9a28b6-9609-4d3d-8187-f75b7259f83e)Kiến thức React Frontend cho Web Application
 
 1. Kiến thức nền tảng (Prerequisites)
 
@@ -713,15 +713,7 @@ Practice Projects
 4. Social Media Dashboard
 5. Blog Platform
 
-🔧 Ứng dụng thực tế của kiến thức frontend trong đồ án
-Tính năng	Kiến thức React áp dụng
-Đăng nhập/Đăng ký:	useState, useEffect, fetch hoặc axios, validation, routing
-Giao diện task & user:	Props, Lists, Conditional Rendering, React.memo
-Chỉnh sửa task:	Forms, Controlled Components, validation
-Quản lý người dùng (Admin):	React Router, ProtectedRoute, phân quyền
-Giao tiếp backend:	API Integration, Custom Hooks, Error Handling
-Quản lý trạng thái user:	Context API hoặc Redux Toolkit
-Responsive UI:	TailwindCSS hoặc CSS Modules, Flexbox, Grid
-Hiển thị biểu đồ (progress hoặc thống kê task):	Recharts hoặc Chart.js
+![image](https://github.com/user-attachments/assets/0ab4e530-a457-49bc-83a5-c42bbeac0b66)
+
 
 
