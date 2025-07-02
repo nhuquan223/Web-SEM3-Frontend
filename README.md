@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b9a28b6-9609-4d3d-8187-f75b7259f83e)Kiến thức React Frontend cho Web Application
+Kiến thức React Frontend cho Web Application
 
 1. Kiến thức nền tảng (Prerequisites)
 
